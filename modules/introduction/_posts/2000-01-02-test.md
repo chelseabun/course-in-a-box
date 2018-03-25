@@ -1,5 +1,5 @@
 ---
-title: About this course
+title: Group Learning
 ---
 
 # Group Learning
